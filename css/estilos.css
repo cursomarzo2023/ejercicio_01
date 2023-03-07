@@ -1,0 +1,14 @@
+*{
+    color: blue;
+}
+p.aviso{
+    color: red;
+}
+
+p .aviso{
+    color: aqua;
+}
+
+h1, .aviso{
+    color: brown;
+}
